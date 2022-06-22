@@ -1,0 +1,16 @@
+{
+  "name": "togel-sdy",
+  "theme": "ui",
+  "version": "0.2.0",
+  "description": "Togel Sdy",
+  "keywords": [
+    "togel sdy",
+    "togel sgp",
+    "togel hk"
+  ],
+  "repository": "https://github.com/Star-Grey/togel-sdy",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
